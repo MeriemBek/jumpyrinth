@@ -12,6 +12,6 @@ In the file `result` you can find the output of the exploit
 {FLG:H4ckItUpH4ckItInL33tM3B3g1n}
 
 ## Authors
-Franco Marino:  https://github.com/franco-marino 
-Jacopo Tediosi: htpss://github.com/jacopotediosi 
+Franco Marino:  https://github.com/franco-marino  
+Jacopo Tediosi: htpss://github.com/jacopotediosi  
 Salted Chrackers: https://gitlab.com/salted-crhackers/writeups
