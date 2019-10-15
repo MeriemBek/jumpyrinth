@@ -13,5 +13,5 @@ In the file `result` you can find the output of the exploit
 
 ## Authors
 Franco Marino:  https://github.com/franco-marino  
-Jacopo Tediosi: htpss://github.com/jacopotediosi  
+Jacopo Tediosi: https://github.com/jacopotediosi  
 Salted Chrackers: https://gitlab.com/salted-crhackers/writeups
